@@ -1,1 +1,1 @@
-# JPA_java
+# Classes e funções JPA com hibernate
